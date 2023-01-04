@@ -6,6 +6,6 @@ print(fruit[1:4])
 print(fruit[:5])
 print(fruit[0:-1])#Negative means Python will put as [len(fruit)-1 in the present case]
 
-nm="Harry"
+nm="Swapnil"
 print(len(nm))
 print(nm[-4:-2])
