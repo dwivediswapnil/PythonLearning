@@ -30,6 +30,7 @@ a4.pop()
 print(a4)#will pop randomly
 
 #del command will delete ex: del a4
+
 #to clear all the items in the set we use set method
 a3.clear()
 print(a3)
